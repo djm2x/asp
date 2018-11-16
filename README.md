@@ -1,0 +1,1 @@
+just test a minimal asp core web app in git and in heroku
