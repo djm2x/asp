@@ -13,3 +13,14 @@ git push -u origin master
 
 git remote add origin https://github.com/djm2x/ouvrier.git
 git push -u origin master
+
+
+-- for heroku
+// heroku login
+// git init
+// heroku git:remote -a ouvrier
+// git add .
+// git commit -am 'better'
+//heroku buildpacks:set https://github.com/jincod/dotnetcore-buildpack
+//heroku buildpacks:set jincod/dotnetcore
+// git push heroku master
