@@ -1,0 +1,11 @@
+C:\Users\TNCAP\source\repos\WebApplication11\WebApplication11\bin\Release\netcoreapp2.0\WebApplication11.deps.json
+C:\Users\TNCAP\source\repos\WebApplication11\WebApplication11\bin\Release\netcoreapp2.0\WebApplication11.runtimeconfig.json
+C:\Users\TNCAP\source\repos\WebApplication11\WebApplication11\bin\Release\netcoreapp2.0\WebApplication11.runtimeconfig.dev.json
+C:\Users\TNCAP\source\repos\WebApplication11\WebApplication11\bin\Release\netcoreapp2.0\WebApplication11.dll
+C:\Users\TNCAP\source\repos\WebApplication11\WebApplication11\bin\Release\netcoreapp2.0\WebApplication11.pdb
+C:\Users\TNCAP\source\repos\WebApplication11\WebApplication11\obj\Release\netcoreapp2.0\WebApplication11.csprojAssemblyReference.cache
+C:\Users\TNCAP\source\repos\WebApplication11\WebApplication11\obj\Release\netcoreapp2.0\WebApplication11.csproj.CoreCompileInputs.cache
+C:\Users\TNCAP\source\repos\WebApplication11\WebApplication11\obj\Release\netcoreapp2.0\WebApplication11.AssemblyInfoInputs.cache
+C:\Users\TNCAP\source\repos\WebApplication11\WebApplication11\obj\Release\netcoreapp2.0\WebApplication11.AssemblyInfo.cs
+C:\Users\TNCAP\source\repos\WebApplication11\WebApplication11\obj\Release\netcoreapp2.0\WebApplication11.dll
+C:\Users\TNCAP\source\repos\WebApplication11\WebApplication11\obj\Release\netcoreapp2.0\WebApplication11.pdb
