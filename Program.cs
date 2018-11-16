@@ -23,3 +23,11 @@ namespace WebApplication11
                 .Build();
     }
 }
+// heroku login
+// git init
+// heroku git:remote -a ouvrier
+// git add .
+// git commit -am 'better'
+//heroku buildpacks:set https://github.com/jincod/dotnetcore-buildpack
+//heroku buildpacks:set jincod/dotnetcore
+// git push heroku master
